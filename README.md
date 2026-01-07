@@ -1,4 +1,4 @@
-# sql-employee-sales-analysis
+
 # SQL Employee & Sales Analysis Project
 
 ## 📌 Project Overview
