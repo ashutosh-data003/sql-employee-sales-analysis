@@ -52,3 +52,26 @@ The project uses four related tables:
 
 ## 📊 Project Structure
 
+---
+
+## 📈 Outcome
+This project demonstrates the ability to:
+- Design a clean SQL schema
+- Work with multiple related tables
+- Write optimized and readable SQL queries
+- Apply advanced SQL concepts to real business scenarios
+- Present analysis in a structured and professional manner
+
+---
+
+## 🚀 How to Use
+1. Run `schema.sql` to create tables  
+2. Run `data.sql` to insert sample data  
+3. Execute queries from `analysis.sql` to view insights  
+
+---
+
+## 📌 Author
+**Ashutosh Sharma**  
+Aspiring Data Analyst | SQL | Data Analysis
+
